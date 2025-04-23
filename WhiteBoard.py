@@ -5,6 +5,7 @@ Date: April 11, 2025
 White Board:
 Created an application which allows you to draw pictures, write notes and use various colors to flesh out ideas for projects. 
 
+TBD:
 - host online
 - require auth 
 - Add feature to invite friends to collaborate on a white board online.
